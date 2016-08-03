@@ -14,7 +14,7 @@ def check_digit(number,j):
 
 def main():
 	flag = True
-	for i in range (6210000999,6210001001):
+	for i in range (1000000000,9999999999):
 		# print(i)
 		temp = str(i)
 		for j in range (0,10):
